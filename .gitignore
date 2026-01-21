@@ -1,0 +1,25 @@
+# Build outputs
+*.pdf
+*.epub
+*.mobi
+build/
+dist/
+output/
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Temp files
+*.tmp
+*.bak
+temp/
+tmp/
+
+# Node modules (if using build tools)
+node_modules/
+package-lock.json
